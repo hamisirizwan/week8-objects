@@ -21,7 +21,7 @@ const animal = {
     "how many ears" : 2
 }
 
-console.log(typeof animal)
+
 // C R U D
 
 // READ - How to access object properties
